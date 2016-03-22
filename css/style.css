@@ -58,6 +58,7 @@ button {
 	-ms-user-select: none;
 	-o-user-select: none;
 	user-select: none;
+	min-width: 30%;
 }
 
 .visibility{
